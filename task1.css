@@ -1,0 +1,117 @@
+.navbar-logo {
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.navbar-buttons1 {
+    background-color:darkgray;
+    margin: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.navbar-buttons2 {
+    background-color:lightgray;
+    margin: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.container-background {
+    background-image: radial-gradient(#ffffff,#e6f7ff);
+}
+
+.homeSection-heading {
+    font-family: "Bree Serif";
+    font-size: 40px;
+    font-weight: bold;
+    color: #cc0099;
+}
+
+.homeSection-carousel {
+    height: 60vh;
+    width: 100vw;
+}
+
+.homeSection-deliveryLink {
+    text-decoration: underline;
+    color: #0066cc;
+}
+
+
+.AboutSection-heading {
+    font-family: "Ceveat";
+    font-size: 40px;
+    font-weight: bold;
+    color:purple;
+}
+
+
+.productsAvailable-image {
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+    padding-left: 5px;
+    margin: 5px;
+}
+
+.productsAvailable-heading {
+    font-size: 16px;
+    padding: 10px;
+    text-align: left;
+}
+
+.productsAvailable-paragraph {
+    font-size: 16px;
+    color:darkgrey;
+    text-align: left;
+}
+
+.productsAvailable-spanElement {
+    font-weight: bold;
+    color:gold;
+}
+
+.productsAvailable-container {
+    background-color: #e6f7ff;
+    text-align: center;
+    height: 350px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.section-heading {
+    font-family: "Roboto";
+    font-size:26px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    color: #cc66cc;
+}
+
+.span-element {
+    color:crimson;
+    font-weight: 400;
+    margin-left: 15px;
+}
+
+.span {
+    color:lawngreen;
+    font-weight: 400;
+}
+
+.span1 {
+    color:orangered;
+    font-weight: bold;
+}
+
+li:hover {
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+.productsAvailable-container:hover {
+    background-color:magenta;
+    cursor: pointer;
+}
